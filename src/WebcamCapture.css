@@ -1,0 +1,20 @@
+.webcamCapture {
+  position: relative;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  padding-top: 10rem;
+}
+
+.webcamCapture__button {
+  color: #fff;
+  position: absolute;
+  bottom: 0.6rem;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  font-size: 3rem;
+}
+.capture-img {
+  padding-left: 10rem;
+}
